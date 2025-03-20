@@ -37,3 +37,37 @@ This project focuses on analyzing UK train rides using raw railway data. The ana
 - Pandas, NumPy (for data processing)
 - Excel-compatible software (for viewing the analysis file)
 
+Here’s the project documentation based on your UK train rides analysis:  
+
+---
+
+### **UK Train Rides Analysis Project**  
+
+#### **1. Project Planning & Management**  
+
+- **Project Proposal**  
+  - Analyzed UK railway travel data to identify trends in ticket sales, travel patterns, delays, and pricing.  
+  - Created visualizations and dashboards for insights into train travel efficiency.  
+  - Examined reasons for delays and factors affecting ticket prices.  
+
+- **Project Plan**  
+  - Defined a structured timeline, including data collection, cleaning, analysis, and visualization.  
+  - Created dashboards summarizing key insights.  
+  - Used Excel for data handling and visualizations.  
+
+- **Task Assignment & Roles**  
+  - Data collection and cleaning: Ensured dataset quality.  
+  - Data analysis: Identified patterns in ticket sales, delays, and costs.  
+  - Visualization: Created graphs and dashboards for better understanding.  
+
+- **Risk Assessment & Mitigation Plan**  
+  - **Data inconsistency** → Addressed missing or incorrect values.  
+  - **Complexity in delay reasons** → Categorized reasons for better analysis.  
+  - **Visualization clarity** → Designed intuitive and informative dashboards.  
+
+- **KPIs (Key Performance Indicators)**  
+  - Average train delay times.  
+  - Most sold ticket types and classes.  
+  - Most frequently visited cities.  
+  - Total revenue and cost breakdown.  
+
