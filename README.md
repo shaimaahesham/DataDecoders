@@ -8,10 +8,10 @@ This project focuses on analyzing UK train rides using raw railway data. The ana
 
 ## Repository Structure
 
-- **railway.csv** - The raw dataset containing UK train ride data.
-- **railway_data_dictionary.csv** - A description of the dataset, including explanations of columns and data types.
-- **RailWay_Tables.py** - A Python script that processes the raw dataset and divides it into sub-tables for structured analysis.
-- **UK_Train_Rides (round1_analysis).xlsx** - The complete analysis file, including:
+- **Raw Data/railway.csv** - The raw dataset containing UK train ride data.
+- **Raw Data/railway_data_dictionary.csv** - A description of the dataset, including explanations of columns and data types.
+- **Data Schema (python)/RailWay_Tables.py** - A Python script that processes the raw dataset and divides it into sub-tables for structured analysis.
+- **Final Analysis/UK_Train_Rides (round1_analysis).xlsx** - The complete analysis file, including:
   - Statistical analysis
   - Data model & star schema
   - Visualizations
