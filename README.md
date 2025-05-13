@@ -1,5 +1,11 @@
 # UK Train Rides Data Analysis
 
+## Team Members
+1. Ahmed Ayman Soliman
+2. Reem Osama Elhanafi
+3. Shaimaa Hesham Abdelmonem
+4. Yasmin Mostafa Abdelaziem
+
 ## Project Overview
 
 ![Demo](./dashboard.png)
