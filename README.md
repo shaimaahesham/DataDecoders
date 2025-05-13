@@ -8,7 +8,14 @@
 
 ## Project Overview
 
-![Demo](./dashboard.png)
+![Screenshot 2025-05-09 162839](https://github.com/user-attachments/assets/a1c79ab6-6206-4e48-965f-863bb459dcdf)
+
+![Screenshot 2025-05-09 162901](https://github.com/user-attachments/assets/a6be9fdd-889f-411b-966e-3a8fb409b9e0)
+
+![Screenshot 2025-05-09 162958](https://github.com/user-attachments/assets/73060010-64b0-4a0a-9ba4-6ba7d3da6e1b)
+
+![Screenshot 2025-05-09 163012](https://github.com/user-attachments/assets/eed5f786-7294-442e-98ed-757bd232f3c8)
+
 
 This project focuses on analyzing UK train rides using raw railway data. The analysis includes statistical insights, a structured data model, visualizations, and a dashboard to better understand train ride patterns in the UK.
 
